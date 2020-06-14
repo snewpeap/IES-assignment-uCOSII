@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "uCOSII", "uCOSII.vcxproj", "{1D62B02F-6B06-4034-8FA0-E52B0CAD63EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D62B02F-6B06-4034-8FA0-E52B0CAD63EE}.Debug|x86.ActiveCfg = Debug|Win32
+		{1D62B02F-6B06-4034-8FA0-E52B0CAD63EE}.Debug|x86.Build.0 = Debug|Win32
+		{1D62B02F-6B06-4034-8FA0-E52B0CAD63EE}.Release|x86.ActiveCfg = Release|Win32
+		{1D62B02F-6B06-4034-8FA0-E52B0CAD63EE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38C0CD08-0481-4567-BBB0-C185BA3D16AB}
+	EndGlobalSection
+EndGlobal
